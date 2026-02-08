@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "base_track": "Nice To Meet You",
+  "base_artist": "Myles Smith",
+  "createdAt": "2026-02-08T12:55:52.249368Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nice to Meet You",
+      "artist": "Berlin",
+      "has_synced": false,
+      "path": "select/01_Nice_to_Meet_You_Berlin.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nice to Meet You",
+      "artist": "DramaGods",
+      "has_synced": false,
+      "path": "select/02_Nice_to_Meet_You_DramaGods.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nice to Meet You",
+      "artist": "Vigiland",
+      "has_synced": true,
+      "path": "select/03_Nice_to_Meet_You_Vigiland.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nice to Meet You",
+      "artist": "房祖名",
+      "has_synced": false,
+      "path": "select/04_Nice_to_Meet_You_房祖名.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Very Nice to Meet You",
+      "artist": "Chanmina",
+      "has_synced": true,
+      "path": "select/05_Very_Nice_to_Meet_You_Chanmina.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nice To Meet You",
+      "artist": "PinkPantheress",
+      "has_synced": true,
+      "path": "select/06_Nice_To_Meet_You_PinkPantheress.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nice To Meet You",
+      "artist": "Rob Scallon",
+      "has_synced": false,
+      "path": "select/07_Nice_To_Meet_You_Rob_Scallon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nice to Meet You",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/08_Nice_to_Meet_You_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nice to meet you",
+      "artist": "The BONEZ",
+      "has_synced": true,
+      "path": "select/09_Nice_to_meet_you_The_BONEZ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nice to Meet You",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/10_Nice_to_Meet_You_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nice To Meet You",
+      "artist": "Myles Smith",
+      "has_synced": true,
+      "path": "select/11_Nice_To_Meet_You_Myles_Smith.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nice to Meet You",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/12_Nice_to_Meet_You_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nice to Meet You",
+      "artist": "Myles Smith",
+      "has_synced": true,
+      "path": "select/13_Nice_to_Meet_You_Myles_Smith.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nice to Meet You",
+      "artist": "Our Lady Peace",
+      "has_synced": true,
+      "path": "select/14_Nice_to_Meet_You_Our_Lady_Peace.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "(Nice to Meet You) Anyway",
+      "artist": "Gavin DeGraw",
+      "has_synced": true,
+      "path": "select/15_(Nice_to_Meet_You)_Anyway_Gavin_DeGraw.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hello, Nice To Meet You",
+      "artist": "Crazy Ex-Girlfriend Cast feat. Rachel Bloom & Skylar Astin",
+      "has_synced": false,
+      "path": "select/16_Hello,_Nice_To_Meet_You_Crazy_Ex-Girlfriend_Cast_feat._Rachel_Bloom_&_Skylar_Astin.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hello, Nice To Meet You",
+      "artist": "Crazy Ex-Girlfriend Cast feat․ Rachel Bloom and Skylar Astin",
+      "has_synced": false,
+      "path": "select/17_Hello,_Nice_To_Meet_You_Crazy_Ex-Girlfriend_Cast_feat._Rachel_Bloom_and_Skylar_Astin.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hello, Nice To Meet You - Reprise #1",
+      "artist": "Crazy Ex-Girlfriend Cast feat. Rachel Bloom & Skylar Astin",
+      "has_synced": false,
+      "path": "select/18_Hello,_Nice_To_Meet_You_-_Reprise__1_Crazy_Ex-Girlfriend_Cast_feat._Rachel_Bloom_&_Skylar_Astin.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Hello, Nice To Meet You (reprise #1)",
+      "artist": "Crazy Ex-Girlfriend Cast feat․ Rachel Bloom and Skylar Astin",
+      "has_synced": false,
+      "path": "select/19_Hello,_Nice_To_Meet_You_(reprise__1)_Crazy_Ex-Girlfriend_Cast_feat._Rachel_Bloom_and_Skylar_Astin.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Hello, Nice To Meet You - Reprise #2",
+      "artist": "Crazy Ex-Girlfriend Cast feat. Rachel Bloom",
+      "has_synced": false,
+      "path": "select/20_Hello,_Nice_To_Meet_You_-_Reprise__2_Crazy_Ex-Girlfriend_Cast_feat._Rachel_Bloom.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Hello, Nice To Meet You (reprise #2)",
+      "artist": "Crazy Ex-Girlfriend Cast feat․ Rachel Bloom",
+      "has_synced": false,
+      "path": "select/21_Hello,_Nice_To_Meet_You_(reprise__2)_Crazy_Ex-Girlfriend_Cast_feat._Rachel_Bloom.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Nice to Meet You",
+      "artist": "The Reign of Kindo",
+      "has_synced": true,
+      "path": "select/22_Nice_to_Meet_You_The_Reign_of_Kindo.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Nice to Meet Ya",
+      "artist": "Niall Horan",
+      "has_synced": true,
+      "path": "select/23_Nice_to_Meet_Ya_Niall_Horan.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Nice To Meet Ya",
+      "artist": "Wes Nelson feat. Yxng Bane",
+      "has_synced": true,
+      "path": "select/24_Nice_To_Meet_Ya_Wes_Nelson_feat._Yxng_Bane.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Nice To Meet Ya",
+      "artist": "Niall Horan",
+      "has_synced": true,
+      "path": "select/25_Nice_To_Meet_Ya_Niall_Horan.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Nice To Meet You",
+      "artist": "Forever the Sickest Kids",
+      "has_synced": false,
+      "path": "select/26_Nice_To_Meet_You_Forever_the_Sickest_Kids.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Nice to Meet Ya (feat. Nicki Minaj)",
+      "artist": "Meghan Trainor feat. Nicki Minaj",
+      "has_synced": true,
+      "path": "select/27_Nice_to_Meet_Ya_(feat._Nicki_Minaj)_Meghan_Trainor_feat._Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Nice To Meet Ya (Feat. Nicki Minaj)",
+      "artist": "Meghan Trainor",
+      "has_synced": true,
+      "path": "select/28_Nice_To_Meet_Ya_(Feat._Nicki_Minaj)_Meghan_Trainor.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Nice to Meet Me",
+      "artist": "Zack Hemsey",
+      "has_synced": false,
+      "path": "select/29_Nice_to_Meet_Me_Zack_Hemsey.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Nice To Meet You, Mr. Earthling",
+      "artist": "pinocchioP",
+      "has_synced": true,
+      "path": "select/30_Nice_To_Meet_You,_Mr._Earthling_pinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Nice to Meet You, Mr. Earthling - Human Ver.",
+      "artist": "pinocchioP",
+      "has_synced": false,
+      "path": "select/31_Nice_to_Meet_You,_Mr._Earthling_-_Human_Ver._pinocchioP.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nice To Meet You",
+      "artist": "Myles Smith",
+      "has_synced": false,
+      "path": "select/pl_01_Nice_To_Meet_You_Myles_Smith.txt"
+    }
+  ]
+}
